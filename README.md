@@ -6,3 +6,4 @@ step 4 azure pr
 step 5 azure ci cd
 step 6 azure ci cd
 new repo created.
+deployment target added
